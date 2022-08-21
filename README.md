@@ -57,10 +57,10 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
+git clone https://github.com/Karthik0055557/filesharingbot-np-
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
-# <Create config.py appropriately>
+# <Create config.py 
 python3 main.py
 ````
 
@@ -131,7 +131,7 @@ Report Bugs, Give Feature Requests There..
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/CodeXBotz/File-Sharing-Bot/) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT](https://github.com/Karthik0055557/filesharingbot-np-) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
